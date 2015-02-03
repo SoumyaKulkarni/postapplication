@@ -1,0 +1,72 @@
+@CHARSET "ISO-8859-1";
+#reg-form {
+	width: 60%;
+	margin-left: 20%;
+}
+
+#reg {
+	
+}
+
+#email,#fname,#lname,#contactNo,#city,#state,#pincode {
+	width: 60%;
+}
+
+#indexcontainer {
+	height: 70%;
+	
+}
+
+#body {
+	font-size: 26px;
+	line-height: 3.429;
+	color: #F9F4FB;
+	text-align: center;
+}
+
+.img-responsive {
+	height: 90px;
+	width: 60px;
+	margin-top: 5px;
+}
+
+#header,#header1 {
+	background-color: maroon;
+	min-height: 30px;
+}
+
+#navhead {
+	min-height: 30px;
+}
+
+#footer {
+	background-color: maroon;
+}
+
+#footerp {
+	text-align: center;
+	color: #F9F4FB;
+}
+
+.form-group {
+	margin-left: 10px;
+}
+label.error {
+	color: #F00;
+	font-size: 12px;
+	margin-left: 4px;
+	float: none;
+}
+#addresslabel.error{
+	margin-top: 50px;
+}
+h5{
+	margin-left: 70%;
+}
+em{
+	color: red;
+}
+.form-horizontal{
+	
+	
+}

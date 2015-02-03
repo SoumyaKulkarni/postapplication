@@ -1,0 +1,61 @@
+@CHARSET "ISO-8859-1";
+#pickUpbody {
+	height: 100%;
+}
+
+#reg-form {
+	width: 60%;
+	margin-left: 20%;
+}
+
+#datepicker,#weight,#time {
+	width: 60%;
+}
+
+#pickUpContainer {
+	height: 550px;
+	overflow: auto;
+}
+
+#body {
+	font-size: 26px;
+	line-height: 3.429;
+	color: #F9F4FB;
+	text-align: center;
+}
+
+.img-responsive {
+	height: 90px;
+	width: 60px;
+	margin-top: 5px;
+}
+
+label.error {
+	color: #F00;
+	font-size: 12px;
+	margin-left: 12px;
+	float: none;
+}
+#header,#header1 {
+	background-color: maroon;
+	min-height: 30px;
+}
+
+#navhead {
+	min-height: 30px;
+}
+
+#footer {
+	background-color: maroon;
+}
+
+#footerp {
+	text-align: center;
+	color: #F9F4FB;
+}
+em{
+	color: red;
+}
+h5{
+	margin-left: 70%;
+}
